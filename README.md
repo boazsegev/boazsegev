@@ -36,3 +36,6 @@ I'm available by:
 * [Telegram](https://t.me/bo_wild)
 * [WhatsApp](https://wa.me/16176425815)
 
+### My Mission Statement
+
+My intention is to leave this world in a more compassionate, loving and free state than it was when I entered it.
