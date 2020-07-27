@@ -21,7 +21,7 @@ My name is Boaz Segev and I'm:
 * A full-stack software engineer.
 * An artist.
 
-### Tech I Love⚡
+### Development Projects I Enjoy ⚡
 
 * Software and API design
 * Barebones Front-end development using CSS and JavaScript
