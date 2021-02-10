@@ -40,4 +40,4 @@ I'm available by:
 
 My intention is to leave this world in a more compassionate, loving and free state than it was when I entered it.
 
-[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=boazsegev)](https://github.com/anuraghazra/github-readme-stats)
+[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=boazsegev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
