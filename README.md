@@ -40,6 +40,6 @@ I'm available by:
 
 My intention is to leave this world in a more compassionate, loving and free state than it was when I entered it.
 
-[![Bo's github stats](https://github-readme-stats-ruby-one.vercel.app/api?username=boazsegev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Bo's github stats](https://github-readme-stats.vercel.app/api?username=boazsegev&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://stackoverflow.com/users/4025095/myst"><img src="https://stackoverflow.com/users/flair/4025095.png?theme=dark" width="208" height="58" alt="profile for Myst at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Myst at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
